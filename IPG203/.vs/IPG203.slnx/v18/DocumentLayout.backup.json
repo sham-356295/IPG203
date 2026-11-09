@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\services\\servicecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\services\\servicecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\utilities\\devicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\utilities\\devicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\models\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\models\\ac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\models\\washer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\models\\washer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\interfaces\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\interfaces\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|c:\\users\\dell\\desktop\\ipg203\\ipg203\\ipg203\\models\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728FC307-038E-47E1-9071-E249364E6E52}|IPG203\\IPG203.csproj|solutionrelative:ipg203\\models\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Utilities\\DeviceValidator.cs",
+              "RelativeDocumentMoniker": "IPG203\\Utilities\\DeviceValidator.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Utilities\\DeviceValidator.cs",
+              "RelativeToolTip": "IPG203\\Utilities\\DeviceValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T13:04:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCenter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Services\\ServiceCenter.cs",
+              "RelativeDocumentMoniker": "IPG203\\Services\\ServiceCenter.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Services\\ServiceCenter.cs",
+              "RelativeToolTip": "IPG203\\Services\\ServiceCenter.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:21:19.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AC.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\AC.cs",
+              "RelativeDocumentMoniker": "IPG203\\Models\\AC.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\AC.cs",
+              "RelativeToolTip": "IPG203\\Models\\AC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:18:40.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Washer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\Washer.cs",
+              "RelativeDocumentMoniker": "IPG203\\Models\\Washer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\Washer.cs",
+              "RelativeToolTip": "IPG203\\Models\\Washer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:15:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fridge.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\Fridge.cs",
+              "RelativeDocumentMoniker": "IPG203\\Models\\Fridge.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\Fridge.cs",
+              "RelativeToolTip": "IPG203\\Models\\Fridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:12:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "IPG203\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Models\\Device.cs",
+              "RelativeToolTip": "IPG203\\Models\\Device.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:00:33.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Interfaces\\IDevice.cs",
+              "RelativeDocumentMoniker": "IPG203\\Interfaces\\IDevice.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Interfaces\\IDevice.cs",
+              "RelativeToolTip": "IPG203\\Interfaces\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T11:59:44.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Program.cs",
+              "RelativeDocumentMoniker": "IPG203\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPG203\\IPG203\\IPG203\\Program.cs",
+              "RelativeToolTip": "IPG203\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADgv40AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T11:45:27.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
